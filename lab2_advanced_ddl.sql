@@ -36,7 +36,7 @@ CREATE TABLE students (
     enrollment_date DATE,
     gpa NUMERIC(3, 2),
     is_active BOOLEAN,
-  university_main  graduation_year SMALLINT
+    graduation_year SMALLINT
 );
 
 CREATE TABLE professors (
